@@ -19,7 +19,7 @@
 ### Technology 
 - Advanced: Python, R, SQL
 - Intermediate: C/C++, HTML, SQL, JavaScript, Node.js
-- Frameworks: Scikit-learn, Tensorflow, Trax, Numpy/Pandas/Matplotlib, Pytorch
+- Frameworks: Scikit-learn, , Pytorch, Numpy/Pandas/Matplotlib
 
 <div align=center>
 
