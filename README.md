@@ -7,19 +7,20 @@
 ### Aspiring AI Scientist 👋
 
 - Currently an MS student in Computer Science at The University of Massachusetts Amherst, with focus on machine learning and natural language processing.
-- Also planning to pursue PhD in Computer Science after graduation, with an emphasis on natural language processing
+- Also planning to pursue PhD in Computer Science after graduation, with an emphasis on natural language processing and computational social science (social computing)
 - Graduated from The College of Wooster, OH in May 2021
 
 ### Interests
 
-- Natural Language Processing in Healthcare and other related areas
+- Natural Language Processing in public health and other related areas 
+- Development of an interpretable NLP system that understands human behaviors 
 - Machine Learning approaches to social issues (e.g. suicide ideation, mental health risks)
-- Health Data Science
+- Social Media analysis
 
 ### Technology 
 - Advanced: Python, R, SQL
-- Intermediate: C/C++, HTML, SQL, JavaScript, Node.js
-- Frameworks: Scikit-learn, , Pytorch, Numpy/Pandas/Matplotlib
+- Intermediate: HTML/CSS, C
+- Frameworks: Pytorch, Scikit-learn, Numpy/Pandas/Matplotlib, NVIDIA RAPIDS
 
 <div align=center>
 
