@@ -6,7 +6,7 @@
 
 ### Aspiring AI Scientist 👋
 
-- Currently an MS student in Computer Science at The University of Massachusetts Amherst, with focus on machine learning and natural language processing.
+- Currently an MS student in Computer Science at The University of Massachusetts Amherst, with focus on data science and natural language processing.
 - Also planning to pursue PhD in Computer Science after graduation, with an emphasis on natural language processing and computational social science (social computing)
 - Graduated from The College of Wooster, OH in May 2021
 
@@ -18,13 +18,12 @@
 - Social Media analysis
 
 ### Technology 
-- Advanced: Python, R, SQL
-- Intermediate: HTML/CSS, C
-- Frameworks: Pytorch, Scikit-learn, Numpy/Pandas/Matplotlib, NVIDIA RAPIDS
+- Languages/Software: Python, R, SQL, HTML/CSS, C, MATLAB, Tableau, Power BI
+- Frameworks: PyTorch, Scikit-learn, Numpy/Pandas/Matplotlib, NVIDIA RAPIDS
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Personal%20Website-black?style=flat-square&logo=github&link=https://sites.google.com/view/minhwalee/)](https://sites.google.com/view/minhwalee/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhwalee/)](https://www.linkedin.com/in/minhwalee/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Personal%20Website-black?style=flat-square&logo=github&link=https://mimn97.github.io/)](https://mimn97.github.io/)[![Tech Blog Badge](http://img.shields.io/badge/-Personal%20Website-black?style=flat-square&logo=github&link=https://sites.google.com/view/minhwalee/)](https://sites.google.com/view/minhwalee/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhwalee/)](https://www.linkedin.com/in/minhwalee/)
 
 </div>
 
