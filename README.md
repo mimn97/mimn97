@@ -6,7 +6,7 @@
 
 ### Aspiring AI Scientist 👋
 
-- Currently an MS student in Computer Science at The University of Massachusetts Amherst, with focus on data science and natural language processing.
+- Currently an MS student in Computer Science at University of Massachusetts Amherst, with a focus on data science and natural language processing.
 - Also planning to pursue PhD in Computer Science after graduation, with an emphasis on natural language processing and computational social science (social computing)
 - Graduated from The College of Wooster, OH in May 2021
 
