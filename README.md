@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmimn97)](https://hits.seeyoufarm.com) 
 </div>
 
-### Aspiring Data Scientist 👋
+### Aspiring Research Scientist 👋
 
 - Currently an MS student in Computer Science at University of Massachusetts Amherst, with a focus on data science and natural language processing.
 - Graduated from The College of Wooster, OH in May 2021
