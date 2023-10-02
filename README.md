@@ -4,12 +4,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmimn97)](https://hits.seeyoufarm.com) 
 </div>
 
-### Aspiring Research Scientist 👋
+### Aspiring NLP Researcher 👋
 
-- Currently an MS student in Computer Science at University of Massachusetts Amherst, with a focus on data science and natural language processing.
+- Currently a full-time visiting researcher @ University of Minnesota Twin Cities
+- Recently graduated with MS in Computer Science at University of Massachusetts Amherst in May 2023.
 - Graduated from The College of Wooster, OH in May 2021
 
-🤔 I’m looking for job (or research) opportunities starting July 2023!
+🤔 I’m looking for PhD opportunities starting Fall 2024!
 
 <!-- ### Interests
 
