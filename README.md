@@ -6,11 +6,12 @@
 
 ### Aspiring NLP Researcher 👋
 
-- Currently a full-time visiting researcher @ University of Minnesota Twin Cities
+- Currently a full-time research staff @ UMass Amherst - Lowell
+- Former visiting researcher at University of Minnesota Twin Cities
 - Recently graduated with MS in Computer Science at University of Massachusetts Amherst in May 2023.
 - Graduated from The College of Wooster, OH in May 2021
 
-🤔 I’m looking for PhD opportunities starting Fall 2024!
+🤔 I’m looking for PhD opportunities starting Fall 2025!
 
 <!-- ### Interests
 
