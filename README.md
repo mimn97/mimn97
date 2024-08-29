@@ -11,8 +11,6 @@
 - Recently graduated with MS in Computer Science at University of Massachusetts Amherst in May 2023.
 - Graduated from The College of Wooster, OH in May 2021
 
-🤔 I’m looking for PhD opportunities starting Fall 2025!
-
 <!-- ### Interests
 
 - Natural Language Processing in public health and other related areas 
