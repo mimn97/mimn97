@@ -4,19 +4,19 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmimn97)](https://hits.seeyoufarm.com) 
 </div>
 
-### Aspiring NLP Researcher 👋
+### Welcome! 👋
 
 - Currently a full-time research staff @ UMass Amherst - Lowell
 - Former visiting researcher at University of Minnesota Twin Cities
 - Recently graduated with MS in Computer Science at University of Massachusetts Amherst in May 2023.
 - Graduated from The College of Wooster, OH in May 2021
 
-<!-- ### Interests
+### Interests
 
-- Natural Language Processing in public health and other related areas 
-- Development of an interpretable NLP system that understands human behaviors 
-- Machine Learning approaches to social issues (e.g. suicide ideation, mental health risks)
-- Social Media analysis -->
+- Human-AI collaboration
+- Natural Language Processing for Healthcare
+- Computational epidemiology (e.g., social/behavioral determinants of health)
+  
 
 ### Technology 
 - Languages/Software: Python, R, SQL, HTML/CSS, C, MATLAB, Tableau, Power BI
